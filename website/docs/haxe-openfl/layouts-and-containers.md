@@ -35,7 +35,7 @@ Components that render [data collections](./data-collections.md) may take advant
 - [`GridView`](./grid-view.md)
 - [`GroupListView`](./group-list-view.md)
 - [`TreeView`](./tree-view.md)
-- [`TreeGrudView`](./tree-grid-view.md)
+- [`TreeGridView`](./tree-grid-view.md)
 
 The following layouts are optimized for data containers by providing _virtualization_ and item renderer _recycling_.
 
